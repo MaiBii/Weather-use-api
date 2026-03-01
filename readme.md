@@ -53,3 +53,10 @@ https://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=YOUR_API_KEY
 9. Purpose of the Project / プロジェクトの目的
 This project was created to practice API integration and improve my documentation and system‑flow understanding as part of my BrSE learning path.
 本プロジェクトは、API 連携・ドキュメント作成・システム理解の習得を目的として作成しました。
+
+10. What I Learned / 学んだこと
+- Working with APIs / API の扱い 
+- Error handling / エラー処理 
+- DOM manipulation / DOM 操作 
+- Async/await / 非同期処理 
+- Step‑by‑step coding / 段階的な実装 
