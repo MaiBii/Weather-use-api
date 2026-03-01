@@ -21,7 +21,6 @@ async function changeWeatherUi() {
 
     if (data.cod == 200) {
       content.classList.remove("hide");
-
       city.innerText = data.name;
       country.innerText = data.sys.country;
       visibility.innerText = data.visibility + " m";
